@@ -1,5 +1,3 @@
-# Book_For_Rent
-
 # Book Rental System
 
 ## Introduction
